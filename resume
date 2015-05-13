@@ -1,5 +1,10 @@
 <!DOCTYPE html> 
 <html>
+<style>
+table, th, td {
+     border: 1px solid black;
+ }
+ </style>
 <head><title>Lia Frazier | Resume</title> 
 </head>
 <body>
@@ -7,11 +12,16 @@
 <table>
 <caption>Experience</caption>
 <tr>
+
   <td>Company: MIU</td>
   <td>City: Miami</td>
-
+  
 </tr>
 
+<tr>
+  <td>Job Title</td>
+
+</tr>
 </table>
 
 </body>
