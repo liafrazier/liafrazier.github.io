@@ -13,18 +13,22 @@ table, th, td {
 <caption>Experience</caption>
 <tr>
 
-  <td>Company: MIU</td>
-  <td>City: Miami</td>
+  <td>Company: Joy of Motion </td>
+  <td>City: DC</td>
   
 </tr>
 
 <tr>
-  <td>Job Title</td>
+  <td>Job Title: Graphic Designer</td>
 
 </tr>
 
 <tr>
-<td>Job Description</td>
+<td>Job Description:
+<ul>
+<li>Made Flyers for showcases</li>
+</ul>
+</td>
 </tr>
 </table>
 
