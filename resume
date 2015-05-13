@@ -30,7 +30,30 @@ table, th, td {
 </ul>
 </td>
 </tr>
+
+
+<tr>
+
+  <td>Company: BET Networks </td>
+  <td>City: DC</td>
+  
+</tr>
+
+<tr>
+  <td>Job Title: Graphic Designer</td>
+
+</tr>
+
+<tr>
+<td>Job Description:
+<ul>
+<li>Edit </li>
+</ul>
+</td>
+</tr>
 </table>
+
+
 
 <caption>Education</caption>
 <table>
