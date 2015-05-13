@@ -32,5 +32,15 @@ table, th, td {
 </tr>
 </table>
 
+<caption>Education</caption>
+<table>
+<tr>
+<td>High School</td>
+</tr>
+
+<tr>
+<td>College</td>
+<tr>
+
 </body>
 </html>
