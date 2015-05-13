@@ -22,6 +22,10 @@ table, th, td {
   <td>Job Title</td>
 
 </tr>
+
+<tr>
+<td>Job Description</td>
+</tr>
 </table>
 
 </body>
