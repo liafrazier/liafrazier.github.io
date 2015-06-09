@@ -9,13 +9,6 @@
 body {
 	color: #1C1914;
 }
-
-body > p {
-	position: absolute;
-right: 70px;
-font-size: 35px;
-color: white;
-}
 .header {
 	background-color: #1C1915;
 	color: white;
@@ -26,8 +19,8 @@ color: white;
 .header ul {
 	display: inline;
 	position: absolute;
-padding-left: 600px;
-padding-top: 6px;
+	padding-left: 600px;
+	padding-top: 6px;
 }
 .header li {
 	display: inline;
@@ -62,6 +55,12 @@ footer > p {
 	letter-spacing: 2px;
 	font-size: 12px;
 }
+#social {
+	width:100px;
+	height: 200px;
+	text-align:center;
+	color: white;
+}
 </style>
 </head>
 
@@ -74,9 +73,11 @@ footer > p {
     <li><a href="">Shop</a></li>
   </ul>
 </div>
-<p>j <i class="fa fa-twitter"></i></p>
-<br>
-<p> <i class="fa fa-instagram"></i></p>
+<div id="social">
+  <p>j <i class="fa fa-twitter"></i></p>
+  <br>
+  <p> <i class="fa fa-instagram"></i></p>
+</div>
 <footer>
   <p>Our mission is to spread positivity, hope and inspiration for the everyday grind through fashion.</p>
 </footer>
