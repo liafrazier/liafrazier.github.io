@@ -5,9 +5,8 @@
 <link href='http://fonts.googleapis.com/css?family=Raleway:400,800' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
-
-<script src="http://code.jquery.com/jquery-x.x.x.min.js"></script>
-<script src="jquery.poptrox.min.js"></script>
+<link rel="stylesheet" href="/path/to/flickity.css" media="screen">
+<script src="/path/to/flickity.pkgd.min.js"></script>
 
 
 <style>
@@ -32,6 +31,9 @@ h1 {
 #footer {
 	text-align: Center;
 }
+
+ 
+
 </style>
 </head>
 
@@ -45,13 +47,10 @@ h1 {
     <br>
     
     
-    <div id="gallery">
-    <a href="images/shaqbg.jpg"><img width="30" src="images/shaqbg.jpg" /></a>
-    <a href="path/to/image2.jpg"><img src="path/to/image2_thumbnail.jpg" /></a>
-    <a href="path/to/image3.jpg"><img src="path/to/image3_thumbnail.jpg" /></a>
-    <a href="path/to/image4.jpg"><img src="path/to/image4_thumbnail.jpg" /></a>
-    <a href="path/to/image5.jpg"><img src="path/to/image5_thumbnail.jpg" /></a>
-    <a href="path/to/image6.jpg"><img src="path/to/image6_thumbnail.jpg" /></a>
+    <div class="gallery js-flickity">
+  <div class="gallery-cell"></div>
+  <div class="gallery-cell"></div>
+  ...
 </div>
     
     
