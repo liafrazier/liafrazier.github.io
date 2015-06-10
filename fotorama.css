@@ -3,8 +3,8 @@
  */
 .fotorama__arr:focus:after, .fotorama__fullscreen-icon:focus:after, .fotorama__html, .fotorama__img, .fotorama__nav__frame:focus .fotorama__dot:after, .fotorama__nav__frame:focus .fotorama__thumb:after, .fotorama__stage__frame, .fotorama__stage__shaft, .fotorama__video iframe {
 	position: absolute;
-	width: 70%;
-	height: 70%;
+	width: 100%;
+	height: 100%;
 	top: 0;
 	right: 0;
 	left: 0;
